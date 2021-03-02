@@ -7,7 +7,7 @@ https://getbootstrap.jp/
 菅井　#c89dal #d6d0d0 #85b1ad
 酒井  #e0ffff #afeeee #b0e0e6
 安永　#FA776D #F9CDAD #757575
-長谷川
+長谷川 #c19ef1 #77d6ff #ffffa3
 
 
 ヘッダーとフッター　酒井
